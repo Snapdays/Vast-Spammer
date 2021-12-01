@@ -1,0 +1,1 @@
+pyarmor obfuscate spammer.py
