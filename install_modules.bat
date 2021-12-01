@@ -1,1 +1,11 @@
-
+pip install pyarmor
+pip install pymongo
+pip install pymongo[srv]
+pip install win10toast
+pip install pywin32
+pip install fade
+pip install colorama
+pip install requests
+pip install dnspython
+pip install discord
+pip install easygui
